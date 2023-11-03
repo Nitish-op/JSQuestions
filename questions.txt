@@ -1,0 +1,2 @@
+1) swapping of 2 numbers 3rd variable
+2)print greatest of 4 numbers using conditional numbers
